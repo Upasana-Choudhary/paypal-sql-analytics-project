@@ -32,6 +32,7 @@ sql
 │ 01_data_cleaning.sql
 │ 02_exploration.sql
 │ 03_business_analysis.sql
+ER Diagram- see https://github.com/Upasana-Choudhary/paypal-sql-analytics-project/blob/main/Entity-Relationship%20Model%20Diagram.png
 results
 README.md
 
