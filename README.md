@@ -26,14 +26,14 @@ CTEs · Joins · Aggregations · Date Functions · CASE · Indexing
 
 📁 Project Structure
 paypal-sql-analytics-project/
-│
-├── data/
-├── sql/
-│   ├── 01_data_cleaning.sql
-│   ├── 02_exploration.sql
-│   └── 03_business_analysis.sql
-├── results/
-└── README.md
+
+data/
+sql
+│ 01_data_cleaning.sql
+│ 02_exploration.sql
+│ 03_business_analysis.sql
+results
+README.md
 
  1. Data Cleaning Summary
 
