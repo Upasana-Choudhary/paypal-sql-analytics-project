@@ -90,6 +90,7 @@ Excellent · Good · Average · Below Average.
 
 8️⃣ Monthly Financial Performance Reports
 
+see- https://github.com/Upasana-Choudhary/paypal-sql-analytics-project/blob/main/paypal_project_sql.sql
 
  Conclusion
 
